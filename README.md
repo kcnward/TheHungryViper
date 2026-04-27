@@ -4,6 +4,8 @@ Waitlist page with optional **Solid** sign-in. When signed in (Solid Community),
 
 ## Develop
 
+Use **Node.js 20 or newer** (required by current tooling).
+
 ```bash
 npm install
 npm run dev
